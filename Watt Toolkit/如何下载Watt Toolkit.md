@@ -6,9 +6,12 @@
 
 ## 下载
 
-### 法一
+### 法一（可能不是最新版）
 
- [安装包](Steam++_v3.0.0-rc.11_win_x64.exe)
+[安装包](Steam++_v3.0.0-rc.11_win_x64.exe) 点击下载
+
+![image](https://github.com/user-attachments/assets/5d5acaf8-9a39-444c-80e5-99f0d4fd5324)
+
 
 ### 法二
 
