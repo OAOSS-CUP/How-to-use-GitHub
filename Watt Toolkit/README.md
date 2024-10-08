@@ -14,8 +14,11 @@
 
 
 ### 法二
+前往 [Release](https://github.com/BeyondDimension/SteamTools/releases) 自行下载
 
-[下载链接](https://steampp.net/)
+### 法三
+
+[官方主页](https://steampp.net/)
 
 ![image](https://github.com/user-attachments/assets/6fc5f81e-8dad-4573-997c-63fff69f4912)
 
