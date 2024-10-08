@@ -6,17 +6,21 @@
 
 #### 打开链接https://steampp.net/
 
-`<img src="如何下载Watt Toolkit.assets/image-20241008142128686.png" alt="image-20241008142128686" style="zoom: 67%;" />`
+![image](https://github.com/user-attachments/assets/6fc5f81e-8dad-4573-997c-63fff69f4912)
 
-`<img src="如何下载Watt Toolkit.assets/image-20241008142249089.png" alt="image-20241008142249089" style="zoom:67%;" />`
+
+![image](https://github.com/user-attachments/assets/0d35f9af-54aa-48c0-ac96-ca494a173a53)
+
 
 #### 紧接着会跳转如下界面
 
-![image-20241008142316806](如何下载Watt Toolkit.assets/image-20241008142316806.png)
+![image](https://github.com/user-attachments/assets/0f3921b1-52f4-496b-95ff-924a3268ea5f)
+
 
 ##### （我个人用前三个渠道下载失败，转而用百度网盘，有点是方便，缺点是慢）
 
-![image-20241008142337773](如何下载Watt Toolkit.assets/image-20241008142337773.png)
+![image](https://github.com/user-attachments/assets/3fca952a-14de-4b08-bbc5-2d28687dab20)
+
 
 #### 下载至百度网盘后，实际只要下载上面圈起来的安装包就可以
 
@@ -26,21 +30,21 @@
 
 把这个github仓库下载压缩包到本地就行，里面有安装包
 
-![image-20241008143046003](如何下载Watt Toolkit.assets/image-20241008143046003.png)
+![image](https://github.com/user-attachments/assets/665c775d-5068-4611-9256-3b1e564afceb)
+
 
 ## 下载后如何加速应用和网站
 
 ### 以Github为例
 
-![image-20241008142355283](如何下载Watt Toolkit.assets/image-20241008142355283.png)
-
 #### 打开Watt Toolkit
 
-![image-20241008142409560](如何下载Watt Toolkit.assets/image-20241008142409560.png)
+![image](https://github.com/user-attachments/assets/6c3b5f8c-0265-4de1-ba4a-366a6b646d11)
 
 #### 找到并勾选Github
 
-![image-20241008142438707](如何下载Watt Toolkit.assets/image-20241008142438707.png)
+![image](https://github.com/user-attachments/assets/aaf873f4-3fdc-44ea-8aab-2f6acef83a6e)
+
 
 #### 点击一键加速
 
